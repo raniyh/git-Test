@@ -8,6 +8,7 @@ public class Main {
         System.out.println("3");
         System.out.println("matser1-test");
         System.out.println("hot-test");
+        System.out.println("push-Test");
 
     }
 }
